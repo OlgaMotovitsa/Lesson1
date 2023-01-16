@@ -6,10 +6,10 @@ int xa = 10, ya = 1,
     xb = 1, yb = 7,    
     xc = 20, yc = 7;
 
-Console.SetCursorPosition(xa, ya);
+Console.Set.CursorPosition(xa, ya);
 Console.WriteLine("+");
 
-Console.SetCursorPosition(xb, yb);
+Console.Set.CursorPosition(xb, yb);
 Console.WriteLine("+");
 
 int x = xa, y = xb;
